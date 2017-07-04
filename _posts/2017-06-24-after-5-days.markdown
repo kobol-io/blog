@@ -12,6 +12,4 @@ header-img: "img/campaign_day5-bg.jpg"
 <p>To finish, a nice article about Helios4 in the Marvell Blog : <b><a href="http://blogs.marvell.com/2017/06/marvell-technology-instrumental-in-ground-breaking-new-open-source-nas-solution/" target="_blank">here</a></b></p>
 <p>Thanks to all of you for the great support... and a special thanks to backer Dominic for ordering 90+ units.</p>
 <p>Get your Helios4 Now : <b><a href="https://shop.kobol.io/" target="_blank">Kobol Shop</a></b></p>
-<a href="#">
-    <img src="{{ site.baseurl }}/img/campaign_day5.png" alt="Campaign Day 5">
-</a>
+<p><img src="{{ site.baseurl }}/img/campaign_day5.png" alt="Campaign Day 5"></p>
