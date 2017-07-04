@@ -15,7 +15,7 @@ header-img: "img/successfully_funded-bg.jpg"
 For now on we will post progress updates here on our <b>KOBOL BLOG</b>
 </p>
 
-<p><u>Note:</u> Even though we reach our goal, we are still accepting pre-orders for this first batch till the end of campaign (July 19th 2017)<br>
+<p><u>Note:</u> Even though we reached our goal, we are still accepting pre-orders for this first batch till the end of campaign (July 19th 2017)<br>
 Get your Helios4 : <a href="https://shop.kobol.io/" target="_blank">Kobol Shop</a></p>
 <p>
 <img src="{{ site.baseurl }}/img/helios4_boards.jpg" alt="Helios4 Boards">
