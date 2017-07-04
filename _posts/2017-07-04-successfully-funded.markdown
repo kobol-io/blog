@@ -6,7 +6,7 @@ author:     "Kobol Team"
 header-img: "img/successfully_funded-bg.jpg"
 ---
 
-<h3>Thank to all of you for showing strong support.</h3>
+<h3>Thank to all of you for showing such strong support.</h3>
 
 <p>Now we can finally focus on the exciting stuff and start the production of this first batch of 300++ units. We are really looking forward to making those little guys on the way to your home.<p>
 
