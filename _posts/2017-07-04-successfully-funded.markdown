@@ -19,3 +19,5 @@ For now on we will post progress updates here on our <b>KOBOL BLOG</b>
 Get your Helios4 : <a href="https://shop.kobol.io/" target="_blank">Kobol Shop</a></p>
 
 <img src="{{ site.baseurl }}/img/helios4_boards.jpg" alt="Helios4 Boards">
+
+<img src="{{ site.baseurl }}/img/campaign_day16.png" alt="Successfully Funded">
