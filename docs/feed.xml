@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-07-20T23:31:19+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">We are launching the manufacturing of Helios4 !</title><link href="http://blog.kobol.io/2017/07/20/starting-manufacturing/" rel="alternate" type="text/html" title="We are launching the manufacturing of Helios4 !" /><published>2017-07-20T20:00:00+08:00</published><updated>2017-07-20T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/07/20/starting-manufacturing</id><content type="html" xml:base="http://blog.kobol.io/2017/07/20/starting-manufacturing/">&lt;h3&gt;The crowd-funding campaign has ended yesterday with a successful goal of 337 units ordered.&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-08-07T01:27:37+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">Casing Drawings and Helios4 Form Factor !</title><link href="http://blog.kobol.io/2017/08/06/casing-drawing/" rel="alternate" type="text/html" title="Casing Drawings and Helios4 Form Factor !" /><published>2017-08-06T20:00:00+08:00</published><updated>2017-08-06T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/08/06/casing-drawing</id><content type="html" xml:base="http://blog.kobol.io/2017/08/06/casing-drawing/">&lt;h3&gt;If you want to design your own casing, this is the info you need !&lt;/h3&gt;
+
+&lt;p&gt;While waiting for the Wiki to be set up, we are sharing the Helios4 casing drawings and the carrier board form factor info.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;h4&gt;Casing&lt;/h4&gt;
+There are 2 drawings:
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a href=&quot;http://blog.kobol.io/files/Helios4_CaseB_r4b_Drawings.zip&quot; target=&quot;_blank&quot;&gt;Heliso4 Case Rev.4B&lt;/a&gt;&lt;/b&gt; - The original design as seen during our campaign,&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a href=&quot;http://blog.kobol.io/files/Helios4_CaseB_r4e_Drawings.zip&quot; target=&quot;_blank&quot;&gt;Helios4 Case Rev.4E&lt;/a&gt;&lt;/b&gt; - The final design that has a 1mm clearing between HDD and side plates for vibration absorption O-ring. Plus a plain area on the front plate for a potential OLED screen.&lt;/li&gt;
+&lt;/ul&gt;
+Note: The drawings were made with SketchUp. Each zip also contains an export in DXF and EPS.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;h4&gt;Carrier Board&lt;/h4&gt;
+&lt;b&gt;&lt;a href=&quot;http://blog.kobol.io/files/Helios4_Mechnical_Assembly.pdf&quot; target=&quot;_blank&quot;&gt;Helios 4 Mechanical Assembly&lt;/a&gt;&lt;/b&gt; - Overall form factor and mounting holes details.
+&lt;/p&gt;
+
+&lt;p&gt;On a final note, all pre-order units are finally &lt;b&gt;sold out&lt;/b&gt;. If you want to get notified when we will start the second batch, subscribe to our newsletter: &lt;b&gt;&lt;a href=&quot;http://kobol.io/helios4/subscribe.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/b&gt;
+&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">If you want to design your own casing, this is the info you need !</summary></entry><entry><title type="html">We are launching the manufacturing of Helios4 !</title><link href="http://blog.kobol.io/2017/07/20/starting-manufacturing/" rel="alternate" type="text/html" title="We are launching the manufacturing of Helios4 !" /><published>2017-07-20T20:00:00+08:00</published><updated>2017-07-20T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/07/20/starting-manufacturing</id><content type="html" xml:base="http://blog.kobol.io/2017/07/20/starting-manufacturing/">&lt;h3&gt;The crowd-funding campaign has ended yesterday with a successful goal of 337 units ordered.&lt;/h3&gt;
 
 &lt;p&gt;We will focus on a &lt;b&gt;first batch of 350 units&lt;/b&gt; with an estimated delivery date of October 2017.&lt;/p&gt;
 
