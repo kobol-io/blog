@@ -3,7 +3,7 @@ layout:     post
 title:      "We are launching the manufacturing of Helios4 !"
 date:       2017-07-20 12:00:00
 author:     "Kobol Team"
-header-img: "img/starting_manufacturing-bg.png"
+header-img: "img/003/starting_manufacturing-bg.png"
 ---
 <h3>The crowd-funding campaign has ended yesterday with a successful goal of 337 units ordered.</h3>
 

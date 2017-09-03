@@ -3,7 +3,7 @@ layout:     post
 title:      "Helios4 new campaign Successfully Funded !"
 date:       2017-07-04 12:00:00
 author:     "Kobol Team"
-header-img: "img/successfully_funded-bg.jpg"
+header-img: "img/002/successfully_funded-bg.jpg"
 ---
 
 <h3>Thank to all of you for showing such strong support.</h3>
@@ -18,8 +18,8 @@ For now on we will post progress updates here on our <b>KOBOL BLOG</b>
 <p><u>Note:</u> Even though we reached our goal, we are still accepting pre-orders for this first batch till the end of campaign (July 19th 2017)<br>
 Get your Helios4 : <a href="https://shop.kobol.io/" target="_blank">Kobol Shop</a></p>
 <p>
-<img src="{{ site.baseurl }}/img/helios4_boards.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/002/helios4_boards.jpg" alt="Helios4 Boards">
 </p>
 <p>
-<img src="{{ site.baseurl }}/img/campaign_day16.png" alt="Successfully Funded">
+<img src="{{ site.baseurl }}/img/002/campaign_day16.png" alt="Successfully Funded">
 </p>

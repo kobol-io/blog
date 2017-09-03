@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-08-07T01:27:37+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">Casing Drawings and Helios4 Form Factor !</title><link href="http://blog.kobol.io/2017/08/06/casing-drawing/" rel="alternate" type="text/html" title="Casing Drawings and Helios4 Form Factor !" /><published>2017-08-06T20:00:00+08:00</published><updated>2017-08-06T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/08/06/casing-drawing</id><content type="html" xml:base="http://blog.kobol.io/2017/08/06/casing-drawing/">&lt;h3&gt;If you want to design your own casing, this is the info you need !&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-09-03T13:26:26+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">Helios4 Manufacturing Progress - Update 1 !</title><link href="http://blog.kobol.io/2017/09/02/manufacturing-progress/" rel="alternate" type="text/html" title="Helios4 Manufacturing Progress - Update 1 !" /><published>2017-09-02T20:00:00+08:00</published><updated>2017-09-02T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/02/manufacturing-progress</id><content type="html" xml:base="http://blog.kobol.io/2017/09/02/manufacturing-progress/">&lt;p&gt;I guess all of you are quite impatient to receive your Helios4, so here is a little progress update on the manufacturing / sourcing. &lt;b&gt;Things are moving well&lt;/b&gt;. All parts of the Helios4 Full Kit, besides the PCBs, are either in or on the way.&lt;p&gt;
+
+&lt;p&gt;
+Now regarding the Helios PCBs (carrier + SOM), as already stated previously they are the longest lead items. We are still confident on the schedule even though we did some last minute changes to the carrier board to ensure Helios4 supports Wake-on-LAN feature. Futher manufacturing updates will focus on the PCBs.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/005/pic1.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+Carton boxes starting to stack up.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/005/pic2.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+700 Fans nicessly packed.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/005/pic3.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+170Kg of Power Adapters. Heavy !
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/005/pic4.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+Packing the assembly kit (it was fun the first 5 min).
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/005/pic5.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+Only 150 more to go.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/005/pic6.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+Laser cut in action.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/005/pic7.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+Blue cases done. Black and Green coming up.
+&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">I guess all of you are quite impatient to receive your Helios4, so here is a little progress update on the manufacturing / sourcing. Things are moving well. All parts of the Helios4 Full Kit, besides the PCBs, are either in or on the way.</summary></entry><entry><title type="html">Casing Drawings and Helios4 Form Factor !</title><link href="http://blog.kobol.io/2017/08/06/casing-drawing/" rel="alternate" type="text/html" title="Casing Drawings and Helios4 Form Factor !" /><published>2017-08-06T20:00:00+08:00</published><updated>2017-08-06T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/08/06/casing-drawing</id><content type="html" xml:base="http://blog.kobol.io/2017/08/06/casing-drawing/">&lt;h3&gt;If you want to design your own casing, this is the info you need !&lt;/h3&gt;
 
 &lt;p&gt;While waiting for the Wiki to be set up, we are sharing the Helios4 casing drawings and the carrier board form factor info.&lt;/p&gt;
 
@@ -49,10 +89,10 @@ For now on we will post progress updates here on our &lt;b&gt;KOBOL BLOG&lt;/b&g
 &lt;p&gt;&lt;u&gt;Note:&lt;/u&gt; Even though we reached our goal, we are still accepting pre-orders for this first batch till the end of campaign (July 19th 2017)&lt;br /&gt;
 Get your Helios4 : &lt;a href=&quot;https://shop.kobol.io/&quot; target=&quot;_blank&quot;&gt;Kobol Shop&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;/img/helios4_boards.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/002/helios4_boards.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;/img/campaign_day16.png&quot; alt=&quot;Successfully Funded&quot; /&gt;
+&lt;img src=&quot;/img/002/campaign_day16.png&quot; alt=&quot;Successfully Funded&quot; /&gt;
 &lt;/p&gt;
 &lt;/p&gt;&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">Thank to all of you for showing such strong support.</summary></entry><entry><title type="html">After 5 days we already collected 83% of our new pledge goal !</title><link href="http://blog.kobol.io/2017/06/24/after-5-days/" rel="alternate" type="text/html" title="After 5 days we already collected 83% of our new pledge goal !" /><published>2017-06-24T20:00:00+08:00</published><updated>2017-06-24T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/06/24/after-5-days</id><content type="html" xml:base="http://blog.kobol.io/2017/06/24/after-5-days/">&lt;p&gt;When we introduced the ECC option for Helios4 we didn’t expect it would have such success. But here we are, only &lt;b&gt;50 units away from our 300 units goal&lt;/b&gt;.&lt;/p&gt;
 &lt;p&gt;It seems most of our backers realized the awesome deal we put up : with the discount code &lt;b&gt;KSBACKER10&lt;/b&gt; (-10$) and the reduced shipping fees you get this premium &lt;b&gt;2GB ECC&lt;/b&gt; option for the same price than our early bird Full Kit standard 2GB.&lt;/p&gt;
@@ -60,7 +100,7 @@ Get your Helios4 : &lt;a href=&quot;https://shop.kobol.io/&quot; target=&quot;_b
 &lt;p&gt;To finish, a nice article about Helios4 in the Marvell Blog : &lt;b&gt;&lt;a href=&quot;http://blogs.marvell.com/2017/06/marvell-technology-instrumental-in-ground-breaking-new-open-source-nas-solution/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Thanks to all of you for the great support... and a special thanks to backer Dominic for ordering 90+ units.&lt;/p&gt;
 &lt;p&gt;Get your Helios4 Now : &lt;b&gt;&lt;a href=&quot;https://shop.kobol.io/&quot; target=&quot;_blank&quot;&gt;Kobol Shop&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/img/campaign_day5.png&quot; alt=&quot;Campaign Day 5&quot; /&gt;&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">When we introduced the ECC option for Helios4 we didn’t expect it would have such success. But here we are, only 50 units away from our 300 units goal.
+&lt;p&gt;&lt;img src=&quot;/img/001/campaign_day5.png&quot; alt=&quot;Campaign Day 5&quot; /&gt;&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">When we introduced the ECC option for Helios4 we didn’t expect it would have such success. But here we are, only 50 units away from our 300 units goal.
 It seems most of our backers realized the awesome deal we put up : with the discount code KSBACKER10 (-10$) and the reduced shipping fees you get this premium 2GB ECC option for the same price than our early bird Full Kit standard 2GB.
 We are on a good trend to reach our goal, but let’s not forget that after the first week it’s when things have tendency to slow down. So let's push for it and help us share the news about this new campaign by sharing the Helios4 website : https://kobol.io/helios4
 To finish, a nice article about Helios4 in the Marvell Blog : here

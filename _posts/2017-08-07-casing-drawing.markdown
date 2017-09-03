@@ -3,7 +3,7 @@ layout:     post
 title:      "Casing Drawings and Helios4 Form Factor !"
 date:       2017-08-06 12:00:00
 author:     "Kobol Team"
-header-img: "img/form_factor-bg.jpg"
+header-img: "img/004/form_factor-bg.jpg"
 ---
 <h3>If you want to design your own casing, this is the info you need !</h3>
 
