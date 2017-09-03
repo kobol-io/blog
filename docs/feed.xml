@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-09-03T13:26:26+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">Helios4 Manufacturing Progress - Update 1 !</title><link href="http://blog.kobol.io/2017/09/02/manufacturing-progress/" rel="alternate" type="text/html" title="Helios4 Manufacturing Progress - Update 1 !" /><published>2017-09-02T20:00:00+08:00</published><updated>2017-09-02T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/02/manufacturing-progress</id><content type="html" xml:base="http://blog.kobol.io/2017/09/02/manufacturing-progress/">&lt;p&gt;I guess all of you are quite impatient to receive your Helios4, so here is a little progress update on the manufacturing / sourcing. &lt;b&gt;Things are moving well&lt;/b&gt;. All parts of the Helios4 Full Kit, besides the PCBs, are either in or on the way.&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-09-03T18:49:14+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">Helios4 Case Design Update !</title><link href="http://blog.kobol.io/2017/09/03/case-design-update/" rel="alternate" type="text/html" title="Helios4 Case Design Update !" /><published>2017-09-03T08:00:00+08:00</published><updated>2017-09-03T08:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/03/case-design-update</id><content type="html" xml:base="http://blog.kobol.io/2017/09/03/case-design-update/">&lt;h3&gt;This is the final version of Helios4 case.&lt;/h3&gt;
+
+&lt;p&gt;In a previous &lt;a href=&quot;http://blog.kobol.io/2017/08/06/casing-drawing/&quot;&gt;post&lt;/a&gt; we shared the Helios4 case drawings. There have been some little modifications to the case to ajust it to the acrylic sheet thickness tolerance we sourced for manufacturing.&lt;/p&gt;
+&lt;p&gt;Finally we made the design more generic regarding the vibration absorption o-rings that we feel are not very useful. So you have the choice to put or not some o-rings on the HDD screws, in either option the assembly won't be loose.
+
+&lt;p&gt;
+&lt;b&gt;&lt;a href=&quot;/files/Helios4_CaseB_r4g_Drawings.zip&quot; target=&quot;_blank&quot;&gt;Helios4 Case Rev.4G&lt;/a&gt;&lt;/b&gt; - Final case design.
+&lt;br /&gt;
+Note: &lt;i&gt;The drawings were made with SketchUp. Each zip also contains an export in PDF, DXF and EPS. As requested by someone, a SketchUp file of an assembled case was included.&lt;/i&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;b&gt;&lt;a href=&quot;/files/Helios4_Mechnical_Assembly.pdf&quot; target=&quot;_blank&quot;&gt;Helios4 Mechanical Assembly&lt;/a&gt;&lt;/b&gt; - Overall form factor and mounting holes details.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/006/Helios4_CaseB_r4g-assembled.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+Assembled case in SketchUp.
+&lt;/p&gt;
+&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">This is the final version of Helios4 case.</summary></entry><entry><title type="html">Helios4 Manufacturing Progress - Update 1 !</title><link href="http://blog.kobol.io/2017/09/02/manufacturing-progress/" rel="alternate" type="text/html" title="Helios4 Manufacturing Progress - Update 1 !" /><published>2017-09-02T20:00:00+08:00</published><updated>2017-09-02T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/02/manufacturing-progress</id><content type="html" xml:base="http://blog.kobol.io/2017/09/02/manufacturing-progress/">&lt;p&gt;I guess all of you are quite impatient to receive your Helios4, so here is a little progress update on the manufacturing / sourcing. &lt;b&gt;Things are moving well&lt;/b&gt;. All parts of the Helios4 Full Kit, besides the PCBs, are either in or on the way.&lt;p&gt;
 
 &lt;p&gt;
 Now regarding the Helios PCBs (carrier + SOM), as already stated previously they are the longest lead items. We are still confident on the schedule even though we did some last minute changes to the carrier board to ensure Helios4 supports Wake-on-LAN feature. Futher manufacturing updates will focus on the PCBs.
@@ -46,15 +65,15 @@ Blue cases done. Black and Green coming up.
 &lt;h4&gt;Casing&lt;/h4&gt;
 There are 2 drawings:
 &lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;a href=&quot;http://blog.kobol.io/files/Helios4_CaseB_r4b_Drawings.zip&quot; target=&quot;_blank&quot;&gt;Heliso4 Case Rev.4B&lt;/a&gt;&lt;/b&gt; - The original design as seen during our campaign,&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a href=&quot;http://blog.kobol.io/files/Helios4_CaseB_r4e_Drawings.zip&quot; target=&quot;_blank&quot;&gt;Helios4 Case Rev.4E&lt;/a&gt;&lt;/b&gt; - The final design that has a 1mm clearing between HDD and side plates for vibration absorption O-ring. Plus a plain area on the front plate for a potential OLED screen.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a href=&quot;/files/Helios4_CaseB_r4b_Drawings.zip&quot; target=&quot;_blank&quot;&gt;Heliso4 Case Rev.4B&lt;/a&gt;&lt;/b&gt; - The original design as seen during our campaign,&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a href=&quot;/files/Helios4_CaseB_r4e_Drawings.zip&quot; target=&quot;_blank&quot;&gt;Helios4 Case Rev.4E&lt;/a&gt;&lt;/b&gt; - The final design that has a 1mm clearing between HDD and side plates for vibration absorption O-ring. Plus a plain area on the front plate for a potential OLED screen.&lt;/li&gt;
 &lt;/ul&gt;
 Note: The drawings were made with SketchUp. Each zip also contains an export in DXF and EPS.
 &lt;/p&gt;
 
 &lt;p&gt;
 &lt;h4&gt;Carrier Board&lt;/h4&gt;
-&lt;b&gt;&lt;a href=&quot;http://blog.kobol.io/files/Helios4_Mechnical_Assembly.pdf&quot; target=&quot;_blank&quot;&gt;Helios 4 Mechanical Assembly&lt;/a&gt;&lt;/b&gt; - Overall form factor and mounting holes details.
+&lt;b&gt;&lt;a href=&quot;/files/Helios4_Mechnical_Assembly.pdf&quot; target=&quot;_blank&quot;&gt;Helios 4 Mechanical Assembly&lt;/a&gt;&lt;/b&gt; - Overall form factor and mounting holes details.
 &lt;/p&gt;
 
 &lt;p&gt;On a final note, all pre-order units are finally &lt;b&gt;sold out&lt;/b&gt;. If you want to get notified when we will start the second batch, subscribe to our newsletter: &lt;b&gt;&lt;a href=&quot;http://kobol.io/helios4/subscribe.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/b&gt;
