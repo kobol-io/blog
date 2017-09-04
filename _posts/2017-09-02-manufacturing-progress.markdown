@@ -13,36 +13,36 @@ Now regarding the Helios PCBs (carrier + SOM), as already stated previously they
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/005/pic1.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/005/pic1.jpg" alt="Helios4 Manufacturing">
 Carton boxes starting to stack up.
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/005/pic2.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/005/pic2.jpg" alt="Helios4 Manufacturing">
 700 Fans nicessly packed.
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/005/pic3.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/005/pic3.jpg" alt="Helios4 Manufacturing">
 170Kg of Power Adapters. Heavy !
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/005/pic4.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/005/pic4.jpg" alt="Helios4 Manufacturing">
 Packing the assembly kit (it was fun the first 5 min).
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/005/pic5.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/005/pic5.jpg" alt="Helios4 Manufacturing">
 Only 150 more to go.
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/005/pic6.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/005/pic6.jpg" alt="Helios4 Manufacturing">
 Laser cut in action.
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/005/pic7.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/005/pic7.jpg" alt="Helios4 Manufacturing">
 Blue cases done. Black and Green coming up.
 </p>

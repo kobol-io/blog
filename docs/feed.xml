@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-09-03T18:49:14+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">Helios4 Case Design Update !</title><link href="http://blog.kobol.io/2017/09/03/case-design-update/" rel="alternate" type="text/html" title="Helios4 Case Design Update !" /><published>2017-09-03T08:00:00+08:00</published><updated>2017-09-03T08:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/03/case-design-update</id><content type="html" xml:base="http://blog.kobol.io/2017/09/03/case-design-update/">&lt;h3&gt;This is the final version of Helios4 case.&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://blog.kobol.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://blog.kobol.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.kobol.io/" rel="alternate" type="text/html" /><updated>2017-09-05T00:44:57+08:00</updated><id>http://blog.kobol.io//</id><title type="html">Kobol Blog</title><subtitle>Helios4 Blog. The Open Source and Open Hardware NAS</subtitle><entry><title type="html">Helios4 Software Integration Progress - Update 1 !</title><link href="http://blog.kobol.io/2017/09/04/sw-fw-update/" rel="alternate" type="text/html" title="Helios4 Software Integration Progress - Update 1 !" /><published>2017-09-04T08:00:00+08:00</published><updated>2017-09-04T08:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/04/sw-fw-update</id><content type="html" xml:base="http://blog.kobol.io/2017/09/04/sw-fw-update/">&lt;p&gt;
+All the current efforts are on having a first baseline with full hardware support. &lt;b&gt;We are almost there&lt;/b&gt;, with just the PWM Fan driver that is still a work-in-progress and some other pending tweaks that are waiting we get some 2GB ECC SoM samples.
+&lt;p&gt;
+
+&lt;p&gt;
+You can follow the development efforts directly on our &lt;b&gt;&lt;a href=&quot;https://github.com/helios-4&quot; target=&quot;_blank&quot;&gt;Helios4 Official Github&lt;/a&gt;&lt;/b&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Here are the main projects that you should follow :
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;&lt;a href=&quot;https://github.com/helios-4/u-boot-marvell&quot; target=&quot;_blank&quot;&gt;u-boot-marvell&lt;/a&gt;&lt;/b&gt; Helios4 custom u-boot&lt;br /&gt;
+(active branch : u-boot-2013.01-15t1-helios4)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;&lt;a href=&quot;https://github.com/helios-4/linux-marvell&quot; target=&quot;_blank&quot;&gt;linux-marvell&lt;/a&gt;&lt;/b&gt; Helios4 custom kernel 4.4&lt;br /&gt;
+(active branch : linux-marvell-4.4)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;&lt;a href=&quot;https://github.com/helios-4/build&quot; target=&quot;_blank&quot;&gt;armbian/build&lt;/a&gt;&lt;/b&gt; Helios4 integration in Armbian&lt;br /&gt;
+For now only default target : Debian 8 Jessie&lt;br /&gt;
+(active branch : helios4)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+So we should be very soon ready to send a pull request in order to add officially the Helios4 support in the &lt;a href=&quot;https://www.armbian.com&quot;&gt;Armbian project&lt;/a&gt;. Once it will be merge in their master branch then the first images for Helios4 will start to get built and should be available through the Armbian portal.
+&lt;/p&gt;
+
+&lt;p&gt;
+Once the baseline is complete, we will shift the effort to the following U-Boot, Kernel and OS versions :
+&lt;ul&gt;
+&lt;li&gt;u-boot-2017.03-armada-17.08&lt;/li&gt;
+&lt;li&gt;mainline kernel 4.13 or LTS kernel 4.9&lt;/li&gt;
+&lt;li&gt;Debian 9 Strech&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Now in regards to NAS related application, our main focus will be to provide an Armbian image that includes &lt;a href=&quot;https://www.openmediavault.org/&quot;&gt;OpenMediaVault&lt;/a&gt;. This will be actually very straight forward thanks to the existing Armbian customize-image script that already includes a routine to built-in OMV.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;/img/007/helios-4-github.png&quot; alt=&quot;Helios4 Github&quot; /&gt;
+&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">All the current efforts are on having a first baseline with full hardware support. We are almost there, with just the PWM Fan driver that is still a work-in-progress and some other pending tweaks that are waiting we get some 2GB ECC SoM samples.</summary></entry><entry><title type="html">Helios4 Case Design Update !</title><link href="http://blog.kobol.io/2017/09/03/case-design-update/" rel="alternate" type="text/html" title="Helios4 Case Design Update !" /><published>2017-09-03T08:00:00+08:00</published><updated>2017-09-03T08:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/03/case-design-update</id><content type="html" xml:base="http://blog.kobol.io/2017/09/03/case-design-update/">&lt;h3&gt;This is the final version of Helios4 case.&lt;/h3&gt;
 
 &lt;p&gt;In a previous &lt;a href=&quot;http://blog.kobol.io/2017/08/06/casing-drawing/&quot;&gt;post&lt;/a&gt; we shared the Helios4 case drawings. There have been some little modifications to the case to ajust it to the acrylic sheet thickness tolerance we sourced for manufacturing.&lt;/p&gt;
 &lt;p&gt;Finally we made the design more generic regarding the vibration absorption o-rings that we feel are not very useful. So you have the choice to put or not some o-rings on the HDD screws, in either option the assembly won't be loose.
@@ -14,7 +61,7 @@ Note: &lt;i&gt;The drawings were made with SketchUp. Each zip also contains an e
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/006/Helios4_CaseB_r4g-assembled.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/006/Helios4_CaseB_r4g-assembled.jpg&quot; alt=&quot;Helios4 Case&quot; /&gt;
 Assembled case in SketchUp.
 &lt;/p&gt;
 &lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">This is the final version of Helios4 case.</summary></entry><entry><title type="html">Helios4 Manufacturing Progress - Update 1 !</title><link href="http://blog.kobol.io/2017/09/02/manufacturing-progress/" rel="alternate" type="text/html" title="Helios4 Manufacturing Progress - Update 1 !" /><published>2017-09-02T20:00:00+08:00</published><updated>2017-09-02T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/09/02/manufacturing-progress</id><content type="html" xml:base="http://blog.kobol.io/2017/09/02/manufacturing-progress/">&lt;p&gt;I guess all of you are quite impatient to receive your Helios4, so here is a little progress update on the manufacturing / sourcing. &lt;b&gt;Things are moving well&lt;/b&gt;. All parts of the Helios4 Full Kit, besides the PCBs, are either in or on the way.&lt;p&gt;
@@ -24,37 +71,37 @@ Now regarding the Helios PCBs (carrier + SOM), as already stated previously they
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/005/pic1.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/005/pic1.jpg&quot; alt=&quot;Helios4 Manufacturing&quot; /&gt;
 Carton boxes starting to stack up.
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/005/pic2.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/005/pic2.jpg&quot; alt=&quot;Helios4 Manufacturing&quot; /&gt;
 700 Fans nicessly packed.
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/005/pic3.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/005/pic3.jpg&quot; alt=&quot;Helios4 Manufacturing&quot; /&gt;
 170Kg of Power Adapters. Heavy !
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/005/pic4.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/005/pic4.jpg&quot; alt=&quot;Helios4 Manufacturing&quot; /&gt;
 Packing the assembly kit (it was fun the first 5 min).
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/005/pic5.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/005/pic5.jpg&quot; alt=&quot;Helios4 Manufacturing&quot; /&gt;
 Only 150 more to go.
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/005/pic6.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/005/pic6.jpg&quot; alt=&quot;Helios4 Manufacturing&quot; /&gt;
 Laser cut in action.
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;img src=&quot;/img/005/pic7.jpg&quot; alt=&quot;Helios4 Boards&quot; /&gt;
+&lt;img src=&quot;/img/005/pic7.jpg&quot; alt=&quot;Helios4 Manufacturing&quot; /&gt;
 Blue cases done. Black and Green coming up.
 &lt;/p&gt;
 &lt;/p&gt;&lt;/p&gt;</content><author><name>Kobol Team</name></author><summary type="html">I guess all of you are quite impatient to receive your Helios4, so here is a little progress update on the manufacturing / sourcing. Things are moving well. All parts of the Helios4 Full Kit, besides the PCBs, are either in or on the way.</summary></entry><entry><title type="html">Casing Drawings and Helios4 Form Factor !</title><link href="http://blog.kobol.io/2017/08/06/casing-drawing/" rel="alternate" type="text/html" title="Casing Drawings and Helios4 Form Factor !" /><published>2017-08-06T20:00:00+08:00</published><updated>2017-08-06T20:00:00+08:00</updated><id>http://blog.kobol.io/2017/08/06/casing-drawing</id><content type="html" xml:base="http://blog.kobol.io/2017/08/06/casing-drawing/">&lt;h3&gt;If you want to design your own casing, this is the info you need !&lt;/h3&gt;

@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Helios4 Blog. The Open Source and Open Hardware NAS">
 
-    <title>Kobol Blog</title>
+    <title>Helios4 Software Integration Progress - Update 1 ! - Kobol Blog</title>
 
-    <link rel="canonical" href="http://blog.kobol.io/page2/">
+    <link rel="canonical" href="http://blog.kobol.io/2017/09/04/sw-fw-update/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -84,62 +84,122 @@
 </nav>
 
 
-    <!-- Page Header -->
-<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/img/007/sw-progress-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1>Kobol Blog</h1>
-                    <hr class="small">
-                    <span class="subheading">A blog about Helios4 Project</span>
+                <div class="post-heading">
+                    <h1>Helios4 Software Integration Progress - Update 1 !</h1>
+                    
+                    <span class="meta">Posted by Kobol Team on September 4, 2017</span>
                 </div>
             </div>
         </div>
     </div>
 </header>
 
-<!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			
-<div class="post-preview">
-    <a href="/2017/07/04/successfully-funded/">
-        <h2 class="post-title">            Helios4 new campaign Successfully Funded !
-        </h2>
-        
-    </a>
-    <p class="post-meta">Posted by Kobol Team on July 4, 2017</p>
-</div>
-<hr>
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-<div class="post-preview">
-    <a href="/2017/06/24/after-5-days/">
-        <h2 class="post-title">            After 5 days we already collected 83% of our new pledge goal !
-        </h2>
-        
-    </a>
-    <p class="post-meta">Posted by Kobol Team on June 24, 2017</p>
-</div>
-<hr>
+				<p>
+All the current efforts are on having a first baseline with full hardware support. <b>We are almost there</b>, with just the PWM Fan driver that is still a work-in-progress and some other pending tweaks that are waiting we get some 2GB ECC SoM samples.
+<p>
 
+<p>
+You can follow the development efforts directly on our <b><a href="https://github.com/helios-4" target="_blank">Helios4 Official Github</a></b>.
+</p>
 
-<!-- Pager -->
-
-<ul class="pager">
-    
-    <li class="previous">
-        <a href="/">&larr; Newer Posts</a>
-    </li>
-    
-    
+<p>
+Here are the main projects that you should follow :
+<ul>
+<li>
+<b><a href="https://github.com/helios-4/u-boot-marvell" target="_blank">u-boot-marvell</a></b> Helios4 custom u-boot<br />
+(active branch : u-boot-2013.01-15t1-helios4)
+</li>
+<li>
+<b><a href="https://github.com/helios-4/linux-marvell" target="_blank">linux-marvell</a></b> Helios4 custom kernel 4.4<br />
+(active branch : linux-marvell-4.4)
+</li>
+<li>
+<b><a href="https://github.com/helios-4/build" target="_blank">armbian/build</a></b> Helios4 integration in Armbian<br />
+For now only default target : Debian 8 Jessie<br />
+(active branch : helios4)
+</li>
 </ul>
+</p>
 
+<p>
+So we should be very soon ready to send a pull request in order to add officially the Helios4 support in the <a href="https://www.armbian.com">Armbian project</a>. Once it will be merge in their master branch then the first images for Helios4 will start to get built and should be available through the Armbian portal.
+</p>
 
-		</div>
+<p>
+Once the baseline is complete, we will shift the effort to the following U-Boot, Kernel and OS versions :
+<ul>
+<li>u-boot-2017.03-armada-17.08</li>
+<li>mainline kernel 4.13 or LTS kernel 4.9</li>
+<li>Debian 9 Strech</li>
+</ul>
+</p>
+
+<p>
+Now in regards to NAS related application, our main focus will be to provide an Armbian image that includes <a href="https://www.openmediavault.org/">OpenMediaVault</a>. This will be actually very straight forward thanks to the existing Armbian customize-image script that already includes a routine to built-in OMV.
+</p>
+
+<p>
+<img src="/img/007/helios-4-github.png" alt="Helios4 Github" />
+</p>
+</p></p>
+
+				<div id="share-bar">
+
+	<h4>Share this:</h4>
+
+	<div class="share-buttons">
+	    <a  href="https://www.facebook.com/sharer/sharer.php?u=http://blog.kobol.io/2017/09/04/sw-fw-update/"
+	        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+	        title="Share on Facebook" >
+	        <i class="fa fa-facebook share-button"> facebook</i>
+	    </a>
+
+	    <a  href="https://twitter.com/intent/tweet?text=Helios4 Software Integration Progress - Update 1 !&url=http://blog.kobol.io/2017/09/04/sw-fw-update/"
+	        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+	        title="Share on Twitter" >
+	        <i class="fa fa-twitter share-button"> twitter</i>
+	    </a>
+	    <a  href="https://plus.google.com/share?url=http://blog.kobol.io/2017/09/04/sw-fw-update/"
+	        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+	        title="Share on Google+" >
+	        <i class="fa fa-google-plus share-button"> google</i>
+	    </a>
+	    <a  href="http://www.reddit.com/submit?url=http://blog.kobol.io/2017/09/04/sw-fw-update/"
+	        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+	        title="Share on Reddit" >
+	        <i class="fa fa-reddit share-button"> reddit</i>
+	    </a>
 	</div>
+
 </div>
+
+
+                <hr>
+
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2017/09/03/case-design-update/" data-toggle="tooltip" data-placement="top" title="Helios4 Case Design Update !">&larr; Previous Post</a>
+                    </li>
+                    
+                    
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</article>
 
 <hr>
 

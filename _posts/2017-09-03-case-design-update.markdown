@@ -21,6 +21,6 @@ Note: <i>The drawings were made with SketchUp. Each zip also contains an export 
 </p>
 
 <p>
-<img src="{{ site.baseurl }}/img/006/Helios4_CaseB_r4g-assembled.jpg" alt="Helios4 Boards">
+<img src="{{ site.baseurl }}/img/006/Helios4_CaseB_r4g-assembled.jpg" alt="Helios4 Case">
 Assembled case in SketchUp.
 </p>
