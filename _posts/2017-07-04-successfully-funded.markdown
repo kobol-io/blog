@@ -6,20 +6,17 @@ author:     "Kobol Team"
 header-img: "img/002/successfully_funded-bg.jpg"
 ---
 
-<h3>Thank to all of you for showing such strong support.</h3>
+### Thank to all of you for showing such strong support.
 
-<p>Now we can finally focus on the exciting stuff and start the production of this first batch of 300++ units. We are really looking forward to making those little guys on the way to your home.<p>
+Now we can finally focus on the exciting stuff and start the production of this first batch of 300++ units. We are really looking forward to making those little guys on the way to your home.
 
-<p>
-<h4>IMPORTANT :</h4>
-For now on we will post progress updates here on our <b>KOBOL BLOG</b>
-</p>
+#### IMPORTANT :
 
-<p><u>Note:</u> Even though we reached our goal, we are still accepting pre-orders for this first batch till the end of campaign (July 19th 2017)<br>
-Get your Helios4 : <a href="https://shop.kobol.io/" target="_blank">Kobol Shop</a></p>
-<p>
-<img src="{{ site.baseurl }}/img/002/helios4_boards.jpg" alt="Helios4 Boards">
-</p>
-<p>
-<img src="{{ site.baseurl }}/img/002/campaign_day16.png" alt="Successfully Funded">
-</p>
+For now on we will post progress updates here on our **KOBOL BLOG**
+
+<u>Note:</u> Even though we reached our goal, we are still accepting pre-orders for this first batch till the end of campaign (July 19th 2017)  
+Get your Helios4 : [Kobol Shop](https://shop.kobol.io/)
+
+![Helios4 Boards]({{ site.baseurl }}/img/002/helios4_boards.jpg)
+
+![Successfully Funded]({{ site.baseurl }}/img/002/campaign_day16.png)
