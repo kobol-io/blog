@@ -17,6 +17,6 @@ For now on we will post progress updates here on our **KOBOL BLOG**
 <u>Note:</u> Even though we reached our goal, we are still accepting pre-orders for this first batch till the end of campaign (July 19th 2017)  
 Get your Helios4 : [Kobol Shop](https://shop.kobol.io/)
 
-![Helios4 Boards]({{ site.baseurl }}/img/002/helios4_boards.jpg)
+![Helios4 Boards](/img/002/helios4_boards.jpg)
 
-![Successfully Funded]({{ site.baseurl }}/img/002/campaign_day16.png)
+![Successfully Funded](/img/002/campaign_day16.png)

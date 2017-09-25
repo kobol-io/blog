@@ -30,4 +30,4 @@ Once the baseline is complete, we will shift the effort to the following U-Boot,
 
 Now in regards to NAS related application, our main focus will be to provide an Armbian image that includes [OpenMediaVault](https://www.openmediavault.org/). This will be actually very straight forward thanks to the existing Armbian customize-image script that already includes a routine to built-in OMV.
 
-![Helios4 Github]({{ site.baseurl }}/img/007/helios-4-github.png)
+![Helios4 Github](/img/007/helios-4-github.png)

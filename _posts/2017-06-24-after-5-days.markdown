@@ -18,4 +18,4 @@ Thanks to all of you for the great support... and a special thanks to backer Dom
 
 Get your Helios4 Now : **[Kobol Shop](https://shop.kobol.io/)**
 
-![Campaign Day 5]({{ site.baseurl }}/img/001/campaign_day5.png)
+![Campaign Day 5](/img/001/campaign_day5.png)

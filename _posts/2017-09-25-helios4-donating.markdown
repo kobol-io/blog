@@ -14,10 +14,10 @@ Taking into account that our crowdfunding goal was downscale, we had to adapt th
 
 **So last week we transfered USD 350 (= Euro 300) to each of the following projects :**
 
-[![armbian]({{ site.baseurl }}/img/008/armbian.png)](http://www.armbian.com/)
+[![armbian](/img/008/armbian.png)](http://www.armbian.com/)
 
-[![omv]({{ site.baseurl }}/img/008/omv.png)](http://www.openmediavault.org/)
+[![omv](/img/008/omv.png)](http://www.openmediavault.org/)
 
 **Kudos to all of you ;-)**
 
-![Donate]({{ site.baseurl }}/img/008/donate.png)
+![Donate](/img/008/donate.png)

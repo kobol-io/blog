@@ -12,9 +12,9 @@ In a previous [post](http://blog.kobol.io/2017/08/06/casing-drawing/) we shared 
 
 Finally we made the design more generic regarding the vibration absorption o-rings that we feel are not very useful. So you have the choice to put or not some o-rings on the HDD screws, in either option the assembly won't be loose.
 
-**[Helios4 Case Rev.4G]({{ site.baseurl }}/files/Helios4_CaseB_r4g_Drawings.zip)** - Final case design.  
+**[Helios4 Case Rev.4G](/files/Helios4_CaseB_r4g_Drawings.zip)** - Final case design.  
 Note: _The drawings were made with SketchUp. Each zip also contains an export in PDF, DXF and EPS. As requested by someone, a SketchUp file of an assembled case was included._
 
-**[Helios4 Mechanical Assembly]({{ site.baseurl }}/files/Helios4_Mechnical_Assembly.pdf)** - Overall form factor and mounting holes details.
+**[Helios4 Mechanical Assembly](/files/Helios4_Mechnical_Assembly.pdf)** - Overall form factor and mounting holes details.
 
-![Helios4 Case]({{ site.baseurl }}/img/006/Helios4_CaseB_r4g-assembled.jpg) Assembled case in SketchUp.
+![Helios4 Case](/img/006/Helios4_CaseB_r4g-assembled.jpg) Assembled case in SketchUp.
