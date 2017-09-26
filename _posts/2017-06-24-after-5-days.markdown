@@ -10,7 +10,7 @@ When we introduced the ECC option for Helios4 we didn’t expect it would have s
 
 It seems most of our backers realized the awesome deal we put up : with the discount code **KSBACKER10** (-10$) and the reduced shipping fees you get this premium **2GB ECC** option for the same price than our early bird Full Kit standard 2GB.
 
-We are on a good trend to reach our goal, but let’s not forget that after the first week it’s when things have tendency to slow down. So let's push for it and help us share the news about this new campaign by sharing the Helios4 website : [**https://kobol.io/helios4**](http://kobol.io/helios4)
+We are on a good trend to reach our goal, but let’s not forget that after the first week it’s when things have tendency to slow down. So let's push for it and help us share the news about this new campaign by sharing the Helios4 website : [**https://kobol.io/helios4**](https://kobol.io/helios4)
 
 To finish, a nice article about Helios4 in the Marvell Blog : **[here](http://blogs.marvell.com/2017/06/marvell-technology-instrumental-in-ground-breaking-new-open-source-nas-solution/)**
 

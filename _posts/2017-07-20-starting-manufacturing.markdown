@@ -17,7 +17,7 @@ We will keep you informed of the manufacturing progress. Meanwhile we will be wo
 *   Finalizing Drivers and OS support for Helios4.
 *   Writing the Wiki to share all the technical info and guidelines. (including schematics, PCB layout and casing design)
 
-As explained before, this blog will be the place where we keep you updated on anything related to the project, so keep an eye on it. We have setup a mailing list to notify you whenever we have an important news to share. If you are a Helios4 backer you are already in the list, otherwise you can subscribe **[here](http://kobol.io/helios4/subscribe.html)**
+As explained before, this blog will be the place where we keep you updated on anything related to the project, so keep an eye on it. We have setup a mailing list to notify you whenever we have an important news to share. If you are a Helios4 backer you are already in the list, otherwise you can subscribe **[here](https://kobol.io/helios4/subscribe.html)**
 
 For the ones who missed the campaign, you still have a chance to grab one of the few remaining kits of this 1st batch **[here](https://shop.kobol.io/)**
 

@@ -23,4 +23,4 @@ Note: The drawings were made with SketchUp. Each zip also contains an export in 
 
 **[Helios 4 Mechanical Assembly](/files/Helios4_Mechnical_Assembly.pdf)** - Overall form factor and mounting holes details.
 
-On a final note, all pre-order units are finally **sold out**. If you want to get notified when we will start the second batch, subscribe to our newsletter: **[here](http://kobol.io/helios4/subscribe.html)**
+On a final note, all pre-order units are finally **sold out**. If you want to get notified when we will start the second batch, subscribe to our newsletter: **[here](https://kobol.io/helios4/subscribe.html)**
