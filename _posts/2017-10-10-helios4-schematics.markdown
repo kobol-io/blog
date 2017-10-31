@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Helios4 Schematics and Manufacturing Update!"
+title:      "Helios4 Schematics and Manufacturing Update !"
 date:       2017-10-10 00:00:00
 author:     "Kobol Team"
 header-img: "img/009/starting_manufacturing-bg.png"

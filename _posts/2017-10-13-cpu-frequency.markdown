@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Helios4 Default CPU Frequency!"
+title:      "Helios4 Default CPU Frequency !"
 date:       2017-10-13 00:00:00
 author:     "Kobol Team"
 header-img: "img/010/cpu-freq-bg.jpg"
