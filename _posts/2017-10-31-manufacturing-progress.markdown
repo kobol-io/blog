@@ -16,7 +16,7 @@ So unfortunately you will realize that the schedule is shifing more than expecte
 
 We are sorry about the delay and we hope you will bear the wait a bit longer. As any first experience, we were a bit over optimistic for the 1st batch completion date. We didn't account enough buffer for the latency in the different back and forth discussions with the suppliers.   
 
-It also generates a lot of frustration on our side because when you are manufacturing small batch of eletronics you don't have much leverage to push things. Plus a lot of steps require effort that is the same whichever is the size of your batch, so manufacturing only 350 units doesn't save time over a thousand.
+It also generates a lot of frustration on our side because when you are manufacturing small batch of electronics you don't have much leverage to push things. Plus a lot of steps require effort that is the same whichever is the size of your batch, so manufacturing only 350 units doesn't save time over a thousand.
 
 All of this is a learning process for us. **We thank you all again for your support and patience !**
 
