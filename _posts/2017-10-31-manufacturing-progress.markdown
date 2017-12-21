@@ -3,7 +3,7 @@ layout:     post
 title:      "Helios4 Manufacturing Progress - Update 2 !"
 date:       2017-10-31 12:00:00
 author:     "Kobol Team"
-header-img: "img/010/manufacture_progress-bg.jpg"
+header-img: "img/011/manufacture_progress-bg.jpg"
 ---
 
 We finally got a **progress update** on the **Helios4 boards manufacturing** (process handled by SolidRun).
@@ -22,8 +22,8 @@ All of this is a learning process for us. **We thank you all again for your supp
 
 Some pictures of the ongoing MicroSoM manufacturing.
 
-![SoM Manufacturing](/img/010/som1.jpeg) SMT Placement Machine.
+![SoM Manufacturing](/img/011/som1.jpeg) SMT Placement Machine.
 
-![SoM Manufacturing](/img/010/som2.jpeg) Reflow Soldering Machine.
+![SoM Manufacturing](/img/011/som2.jpeg) Reflow Soldering Machine.
 
-![SoM Manufacturing](/img/010/som3.jpeg) 1st Batch of Marvell A388 MicroSoM.
+![SoM Manufacturing](/img/011/som3.jpeg) 1st Batch of Marvell A388 MicroSoM.

@@ -3,7 +3,7 @@ layout:     post
 title:      "Helios4 Manufacturing Progress - Update 3 !"
 date:       2017-11-29 00:00:00
 author:     "Kobol Team"
-header-img: "img/011/manufacture_progress-bg.jpg"
+header-img: "img/012/manufacture_progress-bg.jpg"
 ---
 
 We are going through the **final manufacturing step** : carrier board SMT placement.
@@ -12,6 +12,6 @@ Once this is done, each **Carrier and SoM (System-On-Chip) will be assembled tog
 
 Some pictures of the carrier board partially populated with components.
 
-![Carrier Manufacturing](/img/011/carrier1.jpg) Top side.
+![Carrier Manufacturing](/img/012/carrier1.jpg) Top side.
 
-![Carrier Manufacturing](/img/011/carrier2.jpg) Bottom side.
+![Carrier Manufacturing](/img/012/carrier2.jpg) Bottom side.
