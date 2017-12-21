@@ -10,7 +10,7 @@ Unfortunately we are again facing delay on the final stretch. Although **we are 
 
 Our supplier/manufacturer will only be able to send the batch over to Singapore next week, which means orders **fulfillment will only start first week of Jan 2018**.
 
-However we already started to pack all the accessories (casing, fans, power supply, cables, etc...). This way when we finally received the board we can start dispatching immediately.
+However we already started to pack all the accessories (casing, fans, power supply, cables, etc...). This way when we finally receive the boards we can start dispatching immediately.
 
 We apologize again for the delay. Be sure we share your frustration...
 
