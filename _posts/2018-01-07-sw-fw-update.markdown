@@ -6,7 +6,7 @@ author:     "Kobol Team"
 header-img: "img/017/sw-progress-bg.jpg"
 ---
 
-## Latest image builds which includes long awaited Debian 9 Stretch version :
+## Latest image builds which include long awaited Debian 9 Stretch version :
 
 Filename | Download
 ---------|----------
