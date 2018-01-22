@@ -16,4 +16,6 @@ As a gesture to apologize from the delay, our manufacturer (SolidRun) offered **
 
 ![Free microSD](/img/018/sdcard.jpg)
 
+*Note: the microSD card is blank. Go on our [wiki](https://wiki.kobol.io) to find the install instructions*
+
 **Thanks again for your support and patience.**
