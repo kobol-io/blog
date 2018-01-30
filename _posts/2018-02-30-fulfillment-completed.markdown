@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Helios4 1st Batch Fulfillment Completed !"
+title:      "Helios4 Fulfillment Completed !"
 date:       2018-01-30 00:00:00
 author:     "Kobol Team"
 header-img: "img/019/fulfill-bg.jpg"
