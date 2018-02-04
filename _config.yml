@@ -8,6 +8,7 @@ url: "https://blog.kobol.io"
 github_username: helios-4
 facebook_username: kobol.io
 email_username: contact@kobol.io
+comments: true
 
 # Google Analytics
 google_tracking_id: UA-96982596-2
