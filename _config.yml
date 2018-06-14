@@ -17,7 +17,7 @@ google_tracking_id: UA-96982596-2
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","Gemfile*"]
 
 gems: [jekyll-paginate, jekyll-feed]
