@@ -32,10 +32,7 @@ a:hover,
 a:focus {
   color: #0085a1;
 }
-a img:hover,
-a img:focus {
-  cursor: zoom-in;
-}
+
 blockquote {
   color: #808080;
   font-style: italic;
@@ -400,4 +397,13 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+.underline
+{
+    text-decoration: underline;
 }
