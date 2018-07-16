@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Shipping Options updated for 2nd Campaign !"
+title:      "Shipping Options Updated for 2nd Campaign !"
 date:       2018-07-06 01:00:00
 author:     "Kobol Team"
 header-img: "img/025/new-shipping-bg.png"

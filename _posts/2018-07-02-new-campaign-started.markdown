@@ -12,10 +12,10 @@ Visit our **[shop](https://shop.kobol.io/)** now.
 
 We offer the two following kits for order :
 
-*  [Helios4 2GB ECC Full Kit](https://shop.kobol.io/products/helios4-full-kit-2gb-ecc-2nd-batch-pre-order){: .underline }{:target="_blank"}
-*  [Helios4 2GB ECC Basic Kit](https://shop.kobol.io/products/helios4-basic-kit-2gb-ecc-2nd-batch-pre-order){: .underline }{:target="_blank"}
+*  [Helios4 2GB ECC Full Kit](https://shop.kobol.io/products/helios4-full-kit-2gb-ecc-2nd-batch-pre-order){: .underline }
+*  [Helios4 2GB ECC Basic Kit](https://shop.kobol.io/products/helios4-basic-kit-2gb-ecc-2nd-batch-pre-order){: .underline }
 
-[![Product collection](/img/024/product-list.png){: .center-image }](https://shop.kobol.io/collections/all){:target="_blank"}
+[![Product collection](/img/024/product-list.png){: .center-image }](https://shop.kobol.io/collections/all)
 
 ## Campaign Goal
 
