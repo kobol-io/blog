@@ -1009,9 +1009,11 @@ $(document).ready(function() {
 });
 
 // Make all link open in new window
-$(document.links).filter(function() {
-    return this.hostname != window.location.hostname;
-}).attr('target', '_blank');
+$('a').attr('target', function() {
+  if(this.host == location.host) return '_self'
+  else if($(this).attr('target') == '_self') return '_self'
+  else return '_blank'
+});
 
 // responsive embed videos
 $(document).ready(function () {
