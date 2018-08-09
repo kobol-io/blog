@@ -22,4 +22,4 @@ Here a Youtube video from one of our first backers (Topher Webb) who recorded th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XUVDAL1waAA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Note:** Regarding the Basic Kit, we won't produce it since the amount of pre-orders is way to low (15 units). We will contact each person who pre-order it with the option to upgrade to the Full Kit or to get refunded.
+**Note:** Regarding the Basic Kit, we won't produce it since the amount of pre-orders is way to low (15 units). We will contact each person who pre-ordered it with the option to upgrade to the Full Kit or to get refunded.

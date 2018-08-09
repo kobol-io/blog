@@ -59,4 +59,4 @@ We will keep you updated of the campaign progress and will post updates about so
 **We thank you in advance for your trust and support. Let's cross fingers we reach our goal and beyond...**
 
 The Kobol Team
-[![About shiping](/img/024/helios4-logo.png)](https://kobol.io/helios4)
+[![Logo](/img/024/helios4-logo.png)](https://kobol.io/helios4)
