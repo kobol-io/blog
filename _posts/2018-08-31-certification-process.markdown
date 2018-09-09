@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Helios4 FCC & CE Certification !"
+title:      "Helios4 FCC and CE Certification !"
 date:       2018-08-31 01:00:00
 author:     "Kobol Team"
 header-img: "img/031/certification-bg.png"
