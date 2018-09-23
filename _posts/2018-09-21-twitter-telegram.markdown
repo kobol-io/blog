@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "We are now on Twitter and Telegram !"
-date:       2018-09-21 01:00:00
+date:       2018-09-21 01:01:00
 author:     "Kobol Team"
 header-img: "img/034/social-bg.png"
 ---
