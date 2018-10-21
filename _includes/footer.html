@@ -42,9 +42,9 @@
                         </a>
                     </li>
                     {% endif %}
-                    {% if site.email_username %}
+                    {% if site.newsletter_subscribe %}
                     <li>
-                        <a href="mailto:{{ site.email_username }}">
+                        <a href="{{ site.newsletter_subscribe }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
