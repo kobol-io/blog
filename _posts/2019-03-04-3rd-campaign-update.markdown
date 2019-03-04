@@ -14,7 +14,7 @@ It's been now 2 weeks that the 3rd campaign has started. As usual we started on 
 
 Visit our **[shop](https://shop.kobol.io/)** now.
 
-## Special Offer
+## Special Reward
 
 To thank you for your support, we would like to offer the following freebie to anyone ordering an Helios4 during this 3rd campaign.
 
