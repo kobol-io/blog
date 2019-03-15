@@ -14,7 +14,7 @@ header-img: "img/049/funded-bg.png"
 
 **We revised a bit our inventory plan :** the quantity of units we will manufacture will be according to the total number of pre-ordered units collected by the end of the campaign date.
 
-[**So if you want to get Helios4, you have until Sunday 24th August 23:59 SGT to make your move. This is your last chance to order it.**](https://shop.kobol.io/collections/frontpage/products/helios4-full-kit-3rd-ecc-2nd-batch-pre-order)
+[**So if you want to get Helios4, you have until Sunday 24th March 2019 23:59 SGT to make your move. This is your last chance to order it.**](https://shop.kobol.io/collections/frontpage/products/helios4-full-kit-3rd-ecc-2nd-batch-pre-order)
 
 [![Countdown](/img/049/countdown.png){: .center-image }](https://shop.kobol.io/collections/frontpage/products/helios4-full-kit-2gb-ecc-3rd-batch-pre-order)
 
