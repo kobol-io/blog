@@ -1,0 +1,68 @@
+---
+layout:     post
+title:      "About Helios4 Wake-on-LAN and Fancontrol !"
+date:       2019-03-18 01:00:00
+author:     "Kobol Team"
+header-img: "img/050/wol-fancontrol-bg.png"
+---
+
+## Wake-on-LAN is now supported
+
+Even though Helios4 has been designed as a headless server that would run 24/7, a feature that has been long awaited it's the capability to put the system in suspend mode and then wake it up with a trigger send over the network, feature knows as **Wake-on-LAN**.
+
+We have updated our wiki with a [new tutorial](https://wiki.kobol.io/wol/) on how to setup and use Wake-on-LAN (WoL) on Helios4.
+
+In order to enable the WoL support on your running Helios4, you will first need to upgrade your system to Armbian 5.77.
+
+```
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo reboot
+```
+
+The wiki [page](https://wiki.kobol.io/wol/) covers all the important steps, so read carefully before putting your system in suspend mode and not being able to wake it up remotely :P
+
+
+**Info :** We have also published the latest Armbian 5.77 in our [download](https://wiki.kobol.io/download/) section. This image doesn't require any configuration for WoL since everything is already enabled by default.
+
+
+## Fancontrol config update
+
+In previous Armbian release, the fancontrol configuration wasn't well tailored to the new fan type we provided in batch 2.
+
+User reported HDD high temp during idle, due to the fans stop spinning. So **it is strongly recommanded to update your fancontrol** with the following configuration to always make the fan run at low speed even when system is idle.
+
+
+**1)** Open fancontrol configuration
+
+```
+sudo nano /etc/fancontrol
+```
+
+**2)** Replace the configuration with the following config
+
+```
+# Helios4 PWM Fan Control Configuration
+# Temp source : /dev/thermal-cpu
+INTERVAL=10
+FCTEMPS=/dev/fan-j10/pwm1=/dev/thermal-cpu/temp1_input /dev/fan-j17/pwm1=/dev/thermal-cpu/temp1_input
+MINTEMP=/dev/fan-j10/pwm1=60 /dev/fan-j17/pwm1=60
+MAXTEMP=/dev/fan-j10/pwm1=80 /dev/fan-j17/pwm1=80
+MINSTART=/dev/fan-j10/pwm1=20 /dev/fan-j17/pwm1=20
+MINSTOP=/dev/fan-j10/pwm1=29 /dev/fan-j17/pwm1=29
+MINPWM=20
+```
+
+**3)** Restart fancontrol service
+
+```
+sudo systemctl restart fancontrol.service
+```
+
+## Important note
+
+When system is put in suspend mode, the PWM feature controlling the fan speed is stopped. The fans will either spin at their lowest speed (Batch 1 fan) or stop spinning (Batch 2 fan). In the latest case, while this is not an issue for the SoC itself which is designed to run with passive cooling, it might have a negative impact on the HDD peripherals because the ambient temperature inside the case will build up. Therefore it is advised to ensure that when system is suspended the case ambient temperature will not exceed the operating temperature your HDDs are rated for.
+
+**We will revert to the fan type (Type A) we used for Batch 1 for the upcoming Batch 3.**
