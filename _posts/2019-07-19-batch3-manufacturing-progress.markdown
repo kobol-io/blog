@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Helios 4 Batch 3 Manufacturing Progress - Update !"
+title:      "Helios4 Batch 3 Manufacturing Progress - Update !"
 date:       2019-07-19 01:00:00
 author:     "Kobol Team"
 header-img: "img/057/batch3-manufacturing-bg.jpeg"
