@@ -108,7 +108,7 @@ $> sudo apt-get update && sudo apt-get upgrade -y
 $> sudo apt-get dist-upgrade -y
 
 $> sudo sed -i 's/stretch/buster/g' /etc/apt/sources.list    
-$> sudo sed -i 's/Stretch/buster/g' /etc/apt/sources.list.d/armbian.list
+$> sudo sed -i 's/stretch/buster/g' /etc/apt/sources.list.d/armbian.list
 
 $> sudo apt-get update && sudo apt-get upgrade -y
 $> sudo apt-get dist-upgrade -y
