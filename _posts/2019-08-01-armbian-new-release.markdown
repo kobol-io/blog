@@ -104,13 +104,13 @@ The recommend approach is to do a fresh install with Debian Buster image, howeve
 **DISCLAIMER : Upgrading from Debian Stretch to Buster is not always a reliable process. No guarantee the following will not break your system !!!**
 
 ```
-$> sudo apt-get update && apt-get upgrade -y
+$> sudo apt-get update && sudo apt-get upgrade -y
 $> sudo apt-get dist-upgrade -y
 
 $> sudo sed -i 's/stretch/buster/g' /etc/apt/sources.list    
-$> sudo sed -i 's/Stretch/buster/g' /etc/apt/sources.list.d/armbian.list
+$> sudo sed -i 's/stretch/buster/g' /etc/apt/sources.list.d/armbian.list
 
-$> sudo apt-get update && apt-get upgrade -y
+$> sudo apt-get update && sudo apt-get upgrade -y
 $> sudo apt-get dist-upgrade -y
 
 $> sudo reboot
