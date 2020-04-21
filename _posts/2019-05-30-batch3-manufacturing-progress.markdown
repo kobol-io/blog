@@ -26,7 +26,7 @@ The OLED kit will include the ribon cable and 4x transparent nylon screws + nuts
 
 ![Helios4 OLED Kit](/img/054/oled-kit.jpeg)
 
-We have also updated the Helios4 **sys-oled** application to make it easier to configure and use. You can check the app on our [github](https://github.com/helios-4/sys-oled).
+We have also updated the Helios4 **sys-oled** application to make it easier to configure and use. You can check the app on our [github](https://github.com/kobol-io/sys-oled).
 
 In the coming days we will update the assembly manual to cover the installation of the OLED display in addition to the existing instructions that you can already find [here](https://wiki.kobol.io/i2c/).
 

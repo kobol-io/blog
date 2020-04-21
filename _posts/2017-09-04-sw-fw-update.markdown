@@ -8,15 +8,15 @@ header-img: "img/007/sw-progress-bg.jpg"
 
 All the current efforts are on having a first baseline with full hardware support. **We are almost there**, with just the PWM Fan driver that is still a work-in-progress and some other pending tweaks that are waiting we get some 2GB ECC SoM samples.
 
-You can follow the development efforts directly on our **[Helios4 Official Github](https://github.com/helios-4)**.
+You can follow the development efforts directly on our **[Helios4 Official Github](https://github.com/kobol-io)**.
 
 Here are the main projects that you should follow :
 
-*   **[u-boot-marvell](https://github.com/helios-4/u-boot-marvell)** Helios4 custom u-boot  
+*   **[u-boot-marvell](https://github.com/kobol-io/u-boot-marvell)** Helios4 custom u-boot  
     (active branch : u-boot-2013.01-15t1-helios4)
-*   **[linux-marvell](https://github.com/helios-4/linux-marvell)** Helios4 custom kernel 4.4  
+*   **[linux-marvell](https://github.com/kobol-io/linux-marvell)** Helios4 custom kernel 4.4  
     (active branch : linux-marvell-4.4)
-*   **[armbian/build](https://github.com/helios-4/build)** Helios4 integration in Armbian  
+*   **[armbian/build](https://github.com/kobol-io/build)** Helios4 integration in Armbian  
     For now only default target : Debian 8 Jessie  
     (active branch : helios4)
 

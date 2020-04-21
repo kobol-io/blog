@@ -10,7 +10,7 @@ We have updated our wiki with a [new tutorial](https://wiki.kobol.io/i2c/) on ho
 
 ![System Stauts OLED](/img/032/sys-oled.gif)
 
-For this we have developed a rudimentary small application called **sys-oled**. You can find it on our [github](https://github.com/helios-4/sys-oled).
+For this we have developed a rudimentary small application called **sys-oled**. You can find it on our [github](https://github.com/kobol-io/sys-oled).
 
 The setup is pretty straight forward, you will just need couple of jumper wire.
 

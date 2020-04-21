@@ -23,7 +23,7 @@ Here are the two kits that are on their way to the UCS certification lab in Sout
 
 If you are curious about the testing procedures, you can have a look at our [test manual](https://wiki.kobol.io/files/carrier/Helios4_FCC_CE_Test_Manual-v0.1.pdf) that we wrote for the lab to setup and operate Helios4.
 
-We have also developed a dedicated testing application that was needed in order to exercise all the high speed interfaces on the board while radiating test are performed.  You can find the app on our [github](https://github.com/helios-4/test-suite).
+We have also developed a dedicated testing application that was needed in order to exercise all the high speed interfaces on the board while radiating test are performed.  You can find the app on our [github](https://github.com/kobol-io/test-suite).
 
 ![Helios4 Test Suite](/img/031/test-app.png){: .center-image }
 
