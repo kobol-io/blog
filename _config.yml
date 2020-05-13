@@ -8,7 +8,7 @@ url: "https://blog.kobol.io"
 github_username: kobol-io
 facebook_username: kobol.io
 twitter_username: kobol_io
-newsletter_subscribe: "https://kobol.io/helios4/subscribe.html"
+newsletter_subscribe: "https://kobol.io/subscribe.html"
 comments: true
 
 # Google Analytics
@@ -21,4 +21,4 @@ permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","Gemfile*"]
 
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
