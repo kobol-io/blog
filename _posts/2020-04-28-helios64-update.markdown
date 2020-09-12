@@ -34,7 +34,7 @@ This is just the first part of Helios64 documentation. Soon we will complete it 
 
 ![Helios64 Display Port](/img/065/h64-2-5-adapter.jpg)
 
-The adapter to use 2.5" HDD/SSD in the 3.5" bays is ready and will be soon available on our shop for USD 3.5 / piece. We need first to figure out how to allow people to update their existing pre-order to add adatpers if needed.
+The adapter to use 2.5" HDD/SSD in the 3.5" bays is ready and will be soon available on our shop for USD 3.5 / piece. We need first to figure out how to allow people to update their existing pre-order to add adapters if needed.
 
 On a similar note, many people still asking  us if they could order the board only. Yes you will be able to order soon each item individually. We are bit behind on this topic because we still need to figure out the fulfillment and shipping aspect for individual items.
 
