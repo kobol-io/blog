@@ -8,9 +8,11 @@ header-img: "img/072/software-support-bg.png"
 
 # Do NOT Upgrade to Armbian 20.08.13
 
-We have received reports of instability issues through email and forum with the latest Armbian image we published (20.08.13). We are still investigating the root cause and managed to reproduce the kernel crash on some of our boards. We advise user to **NOT** install or upgrade to **Armbian 20.08.13** which contain **Linux Kernel 5.8.16** until further notice.
+We have received reports of instability issues through email and forum with the latest Armbian image we published (20.08.13) for **Helios64**. We are still investigating the root cause and managed to reproduce the kernel crash on some of our boards. We advise user to **NOT** install or upgrade to **Armbian 20.08.13** which contain **Linux Kernel 5.8.16** until further notice.
 
-You can download **Armbian 20.08.10** which is known stable from following links
+**Note:** _this issue report doesn't apply to our previous product Helios4 !_
+
+You can download **Armbian 20.08.10** for Helios64 which is known stable from following links
 
 Filename | Link
 ---------|---------
@@ -22,7 +24,7 @@ You can prevent Board Support Package (bootloader/kernel/device tree) upgrade by
 
 ## Revert back to Linux Kernel 5.8.14
 
-To downgrade to LK 5.8.14 you can use *armbian-config*
+If you already upgraded your system to LK 5.8.16 (use command _uname -r_ to check), then to downgrade to LK 5.8.14 you can use *armbian-config*
 
 ```
 sudo armbian-config
