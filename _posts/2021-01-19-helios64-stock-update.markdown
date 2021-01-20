@@ -41,4 +41,4 @@ We received thousands of inquiries asking when the next Helios64 batch will be c
 
 A new major update for Armbian will be released in the coming weeks. This will introduce new Linux Kernel 5.10. But more importantly, we  managed to fix a recurrent issue with the USB driver that impacted the stability of the 2.5GbE interface on Linux Kernel 5.x version.
 
-This new release will also introduce ZFS v2.0.1 DKMS package that will now support Debian Stretch. Stay tuned to know when the new Armbian release is available for download / upgrade.
+This new release will also introduce ZFS v2.0.1 DKMS package that will now support Debian Buster. Stay tuned to know when the new Armbian release is available for download / upgrade.
